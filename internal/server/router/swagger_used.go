@@ -8,7 +8,7 @@ import (
 	httpSwagger "github.com/swaggo/http-swagger"
 	"github.com/swaggo/swag"
 
-	"github.com/thinkgos/etching/docs"
+	"github.com/thinkgos/kratos-layout/docs"
 )
 
 func Swagger(srv *http.Server) {

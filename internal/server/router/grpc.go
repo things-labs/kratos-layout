@@ -1,7 +1,7 @@
 package router
 
 import (
-	v1 "github.com/thinkgos/etching/genproto/helloworld/v1"
+	v1 "github.com/thinkgos/kratos-layout/genproto/helloworld/v1"
 	"google.golang.org/grpc"
 )
 

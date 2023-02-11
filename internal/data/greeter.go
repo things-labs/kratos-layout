@@ -4,7 +4,7 @@ import (
 	"context"
 
 	"github.com/go-kratos/kratos/v2/log"
-	bizHelloworld "github.com/thinkgos/etching/internal/biz/helloworld"
+	bizHelloworld "github.com/thinkgos/kratos-layout/internal/biz/helloworld"
 )
 
 type greeterRepo struct {

@@ -6,7 +6,7 @@ import (
 	"github.com/go-kratos/kratos/v2/errors"
 	"github.com/go-kratos/kratos/v2/log"
 
-	"github.com/thinkgos/etching/genproto/errno"
+	"github.com/thinkgos/kratos-layout/genproto/errno"
 )
 
 var (

@@ -3,7 +3,7 @@ package router
 import (
 	"github.com/go-kratos/kratos/v2/log"
 	"github.com/google/wire"
-	"github.com/thinkgos/etching/internal/service/helloworld"
+	"github.com/thinkgos/kratos-layout/internal/service/helloworld"
 )
 
 // ProviderSet is server providers.

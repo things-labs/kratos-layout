@@ -1,7 +1,7 @@
 syntax = "proto3";
 package etching.api.config;
 
-option go_package = "github.com/thinkgos/etching/genproto/config;config";
+option go_package = "github.com/thinkgos/kratos-layout/internal/config;config";
 
 import "google/protobuf/duration.proto";
 

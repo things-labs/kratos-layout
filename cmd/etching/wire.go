@@ -6,12 +6,12 @@
 package main
 
 import (
-	"github.com/thinkgos/etching/internal/biz"
-	"github.com/thinkgos/etching/internal/config"
-	"github.com/thinkgos/etching/internal/data"
-	"github.com/thinkgos/etching/internal/server"
-	"github.com/thinkgos/etching/internal/server/router"
-	"github.com/thinkgos/etching/internal/service"
+	"github.com/thinkgos/kratos-layout/internal/biz"
+	"github.com/thinkgos/kratos-layout/internal/config"
+	"github.com/thinkgos/kratos-layout/internal/data"
+	"github.com/thinkgos/kratos-layout/internal/server"
+	"github.com/thinkgos/kratos-layout/internal/server/router"
+	"github.com/thinkgos/kratos-layout/internal/service"
 
 	"github.com/go-kratos/kratos/v2"
 	"github.com/go-kratos/kratos/v2/log"
