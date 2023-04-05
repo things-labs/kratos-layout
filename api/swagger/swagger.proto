@@ -1,7 +1,7 @@
 syntax = "proto3";
 
 package etching.api.swagger;
-option go_package = "github.com/thinkgos/kratos-layout/genproto/swagger";
+option go_package = "github.com/things-labs/kratos-layout/genproto/swagger";
 
 import "protoc-gen-openapiv2/options/annotations.proto";
 // import "protoc-gen-openapiv2/options/openapiv2.proto";

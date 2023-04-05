@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package etching.api.errno;
 
-option go_package = "github.com/thinkgos/kratos-layout/genproto/errno;errno";
+option go_package = "github.com/things-labs/kratos-layout/genproto/errno;errno";
 option java_multiple_files = true;
 option java_package = "helloworld.v1";
 option objc_class_prefix = "APIHelloworldV1";

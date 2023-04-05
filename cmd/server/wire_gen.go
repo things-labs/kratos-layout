@@ -9,12 +9,12 @@ package main
 import (
 	"github.com/go-kratos/kratos/v2"
 	"github.com/go-kratos/kratos/v2/log"
-	"github.com/thinkgos/kratos-layout/internal/biz/helloworld"
-	"github.com/thinkgos/kratos-layout/internal/config"
-	"github.com/thinkgos/kratos-layout/internal/data"
-	"github.com/thinkgos/kratos-layout/internal/server"
-	"github.com/thinkgos/kratos-layout/internal/server/router"
-	helloworld2 "github.com/thinkgos/kratos-layout/internal/service/helloworld"
+	"github.com/things-labs/kratos-layout/internal/biz/helloworld"
+	"github.com/things-labs/kratos-layout/internal/config"
+	"github.com/things-labs/kratos-layout/internal/data"
+	"github.com/things-labs/kratos-layout/internal/server"
+	"github.com/things-labs/kratos-layout/internal/server/router"
+	helloworld2 "github.com/things-labs/kratos-layout/internal/service/helloworld"
 )
 
 import (

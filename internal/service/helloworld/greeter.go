@@ -3,8 +3,8 @@ package helloworld
 import (
 	"context"
 
-	v1 "github.com/thinkgos/kratos-layout/genproto/helloworld/v1"
-	bizHelloworld "github.com/thinkgos/kratos-layout/internal/biz/helloworld"
+	v1 "github.com/things-labs/kratos-layout/genproto/helloworld/v1"
+	bizHelloworld "github.com/things-labs/kratos-layout/internal/biz/helloworld"
 )
 
 // GreeterService is a greeter service.

@@ -1,4 +1,4 @@
-module github.com/thinkgos/kratos-layout
+module github.com/things-labs/kratos-layout
 
 go 1.18
 

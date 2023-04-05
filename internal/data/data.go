@@ -3,7 +3,7 @@ package data
 import (
 	"github.com/go-kratos/kratos/v2/log"
 	"github.com/google/wire"
-	"github.com/thinkgos/kratos-layout/internal/config"
+	"github.com/things-labs/kratos-layout/internal/config"
 )
 
 // ProviderSet is data providers.

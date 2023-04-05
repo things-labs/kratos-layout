@@ -4,7 +4,7 @@ import (
 	"flag"
 	"os"
 
-	eConfig "github.com/thinkgos/kratos-layout/internal/config"
+	eConfig "github.com/things-labs/kratos-layout/internal/config"
 
 	"github.com/go-kratos/kratos/v2"
 	"github.com/go-kratos/kratos/v2/config"

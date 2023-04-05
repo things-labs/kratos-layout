@@ -6,12 +6,12 @@
 package main
 
 import (
-	"github.com/thinkgos/kratos-layout/internal/biz"
-	"github.com/thinkgos/kratos-layout/internal/config"
-	"github.com/thinkgos/kratos-layout/internal/data"
-	"github.com/thinkgos/kratos-layout/internal/server"
-	"github.com/thinkgos/kratos-layout/internal/server/router"
-	"github.com/thinkgos/kratos-layout/internal/service"
+	"github.com/things-labs/kratos-layout/internal/biz"
+	"github.com/things-labs/kratos-layout/internal/config"
+	"github.com/things-labs/kratos-layout/internal/data"
+	"github.com/things-labs/kratos-layout/internal/server"
+	"github.com/things-labs/kratos-layout/internal/server/router"
+	"github.com/things-labs/kratos-layout/internal/service"
 
 	"github.com/go-kratos/kratos/v2"
 	"github.com/go-kratos/kratos/v2/log"

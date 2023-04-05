@@ -3,7 +3,7 @@ package service
 import (
 	"github.com/google/wire"
 
-	"github.com/thinkgos/kratos-layout/internal/service/helloworld"
+	"github.com/things-labs/kratos-layout/internal/service/helloworld"
 )
 
 // ProviderSet is service providers.
